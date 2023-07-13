@@ -1,0 +1,1 @@
+function y = ebnF(x)if x < 0    y = 0;else   %y = 1-exp(-x*10);   y = 1-exp(-x*.9);end;if y<0	y=0;end
