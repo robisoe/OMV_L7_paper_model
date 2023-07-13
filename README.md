@@ -6,4 +6,4 @@ Instruction:
 2. Place all files in a new folder
 3. Set the Matlab Workspace Current Folder toolbar to where the files are
 4. Run init_N_run_model_20230707.m to create Fig. 13 plots.
-5. Open paper_model_20230707.slx to see the actual model
+5. Open paper_model_20230707.slx to see the model schematics.
